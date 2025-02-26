@@ -1,7 +1,7 @@
 # Pediatric Pneumonia Chest X-ray Classifier with ResNet50
 
 This project implements a pediatric pneumonia classifier using chest X-ray images with Transfer Learning and Fine-Tuning from a pre-trained ResNet50 model on ImageNet. The training process is optimized with the AdamP optimizer, and Label Smoothing is applied to improve generalization.
-
+The dataset can be found [here](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray?select=Pediatric+Chest+X-ray+Pneumonia).
 ## Dataset Structure
 
 The dataset should be organized in the following structure:
