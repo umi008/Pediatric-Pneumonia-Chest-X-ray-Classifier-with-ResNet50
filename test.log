@@ -1,0 +1,14 @@
+2025-02-26 15:56:49,277 - INFO - Evaluando el modelo en el conjunto de prueba...
+2025-02-26 15:56:51,358 - INFO - Test Loss: 0.3436, Test Accuracy: 93.00%
+2025-02-26 15:56:51,542 - INFO - Matriz de confusión guardada como confusion_matrix.png
+2025-02-26 15:56:51,547 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+      NORMAL       1.00      0.86      0.92        50
+   PNEUMONIA       0.88      1.00      0.93        50
+
+    accuracy                           0.93       100
+   macro avg       0.94      0.93      0.93       100
+weighted avg       0.94      0.93      0.93       100
+
+2025-02-26 15:56:55,159 - INFO - Visualización de activaciones completada.

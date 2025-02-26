@@ -1,0 +1,48 @@
+2025-02-26 15:35:28,066 - INFO - Epoch [1/100] Loss: 0.5778
+2025-02-26 15:35:32,807 - INFO - Validation Loss: 0.5757, Accuracy: 66.41%
+2025-02-26 15:35:32,899 - INFO - Modelo guardado con pérdida: 0.5757
+2025-02-26 15:35:45,993 - INFO - Epoch [2/100] Loss: 0.4631
+2025-02-26 15:35:50,777 - INFO - Validation Loss: 0.5114, Accuracy: 82.44%
+2025-02-26 15:35:50,871 - INFO - Modelo guardado con pérdida: 0.5114
+2025-02-26 15:36:04,974 - INFO - Epoch [3/100] Loss: 0.4317
+2025-02-26 15:36:09,757 - INFO - Validation Loss: 0.5136, Accuracy: 81.87%
+2025-02-26 15:36:23,248 - INFO - Epoch [4/100] Loss: 0.4269
+2025-02-26 15:36:27,982 - INFO - Validation Loss: 0.5019, Accuracy: 82.25%
+2025-02-26 15:36:28,080 - INFO - Modelo guardado con pérdida: 0.5019
+2025-02-26 15:36:28,089 - INFO - Fine-tuning activado: todas las capas desbloqueadas.
+2025-02-26 15:36:44,410 - INFO - Epoch [5/100] Loss: 0.3651
+2025-02-26 15:36:46,169 - INFO - Validation Loss: 0.4028, Accuracy: 87.79%
+2025-02-26 15:36:46,263 - INFO - Modelo guardado con pérdida: 0.4028
+2025-02-26 15:37:02,486 - INFO - Epoch [6/100] Loss: 0.3188
+2025-02-26 15:37:04,366 - INFO - Validation Loss: 0.3748, Accuracy: 90.65%
+2025-02-26 15:37:04,461 - INFO - Modelo guardado con pérdida: 0.3748
+2025-02-26 15:37:20,702 - INFO - Epoch [7/100] Loss: 0.3000
+2025-02-26 15:37:22,479 - INFO - Validation Loss: 0.3622, Accuracy: 90.08%
+2025-02-26 15:37:22,573 - INFO - Modelo guardado con pérdida: 0.3622
+2025-02-26 15:37:38,827 - INFO - Epoch [8/100] Loss: 0.2970
+2025-02-26 15:37:40,630 - INFO - Validation Loss: 0.3271, Accuracy: 93.70%
+2025-02-26 15:37:40,721 - INFO - Modelo guardado con pérdida: 0.3271
+2025-02-26 15:37:56,863 - INFO - Epoch [9/100] Loss: 0.2915
+2025-02-26 15:37:58,696 - INFO - Validation Loss: 0.2983, Accuracy: 94.47%
+2025-02-26 15:37:58,794 - INFO - Modelo guardado con pérdida: 0.2983
+2025-02-26 15:38:14,920 - INFO - Epoch [10/100] Loss: 0.2831
+2025-02-26 15:38:16,691 - INFO - Validation Loss: 0.3061, Accuracy: 93.13%
+2025-02-26 15:38:32,905 - INFO - Epoch [11/100] Loss: 0.2756
+2025-02-26 15:38:34,695 - INFO - Validation Loss: 0.3082, Accuracy: 94.27%
+2025-02-26 15:38:50,731 - INFO - Epoch [12/100] Loss: 0.2757
+2025-02-26 15:38:52,558 - INFO - Validation Loss: 0.3289, Accuracy: 92.75%
+2025-02-26 15:39:08,739 - INFO - Epoch [13/100] Loss: 0.2720
+2025-02-26 15:39:10,629 - INFO - Validation Loss: 0.3550, Accuracy: 91.41%
+2025-02-26 15:39:26,912 - INFO - Epoch [14/100] Loss: 0.2733
+2025-02-26 15:39:28,736 - INFO - Validation Loss: 0.3530, Accuracy: 93.32%
+2025-02-26 15:39:44,932 - INFO - Epoch [15/100] Loss: 0.2728
+2025-02-26 15:39:46,719 - INFO - Validation Loss: 0.3276, Accuracy: 93.51%
+2025-02-26 15:40:02,873 - INFO - Epoch [16/100] Loss: 0.2670
+2025-02-26 15:40:04,676 - INFO - Validation Loss: 0.2957, Accuracy: 95.42%
+2025-02-26 15:40:20,802 - INFO - Epoch [17/100] Loss: 0.2644
+2025-02-26 15:40:22,711 - INFO - Validation Loss: 0.3119, Accuracy: 94.47%
+2025-02-26 15:40:38,934 - INFO - Epoch [18/100] Loss: 0.2625
+2025-02-26 15:40:40,717 - INFO - Validation Loss: 0.2960, Accuracy: 94.85%
+2025-02-26 15:40:56,885 - INFO - Epoch [19/100] Loss: 0.2605
+2025-02-26 15:40:58,671 - INFO - Validation Loss: 0.3029, Accuracy: 94.47%
+2025-02-26 15:40:58,671 - INFO - Stop early en epoch 19
